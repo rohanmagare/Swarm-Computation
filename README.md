@@ -1,3 +1,3 @@
 # Swarm-Computation
-Disaster Management by implementation of Swarm Computation
-Project By: Rohan
+Bomb Detection by implementation of Swarm Computation
+Project By: Rohan Magare
